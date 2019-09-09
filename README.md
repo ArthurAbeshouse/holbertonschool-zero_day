@@ -1,1 +1,1 @@
-# holbertonschool-zero_day
+This file is apart of the first project I've done at Holberton.

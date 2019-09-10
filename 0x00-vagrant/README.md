@@ -1,0 +1,1 @@
+This project is to find out what the command "uname" does in Linux.
